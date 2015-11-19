@@ -1,5 +1,6 @@
-<?php  
+<?php namespace Yuna\Lib;
 
-class Site extends \Slim\Slim{
+class Site extends \Slim\Slim
+{
 
 }

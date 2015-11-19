@@ -1,4 +1,9 @@
 {
+    "autoload": {
+        "psr-4": {
+            "Yuna\\" : "src"
+        }
+    },
     "require": {
         "slim/slim": "~2.6"
     }
