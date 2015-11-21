@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'templates.path' => './src/view'
+    'templates.path' => './src/view',
+    'view' => new \Yuna\Lib\View(),
 ];

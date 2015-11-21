@@ -1,1 +1,3 @@
-123
+this is subview
+
+<?= $data ?>
